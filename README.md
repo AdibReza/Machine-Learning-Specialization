@@ -1,8 +1,13 @@
 # Machine-Learning-Specialization
 
-Machine Learning specialization course consists of 3 courses:
-I have upload all the theories, codes and solved lab materials here within folders.
+Machine Learning specialization course consists of 3 courses. I have upload all the theories, codes and solved lab materials here within folders.
 Feel free to study them.
+
+Start reading the labs from the start, where you'll find well organised theories as well as labs. Study them, play with them and just have fun. This is a great course to start your Machine Learning journey. Wishing you all the best. Feel free to knock me if you have any queries.
+
+## Contents:
+* Theory + Labs
+* Solved Assignments
 
 ## Links:
 **Course link:** https://www.coursera.org/specializations/machine-learning-introduction?
